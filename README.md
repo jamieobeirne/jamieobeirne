@@ -1,4 +1,6 @@
-👋  👋  👋    Hi, I’m Jamie O'Beirne.
+👋  👋  👋    
+
+Hi, I’m Jamie O'Beirne.
 
 Please view my personal webpage: https://jamieobeirne.github.io/Developer/
 
@@ -7,6 +9,6 @@ Tech work is the most creative and exciting field I know of, especially for proa
 
 
 Thanks! 😄 
-Jammie
+Jamie
 
 
