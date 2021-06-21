@@ -8,7 +8,8 @@ Tech work is the most creative and exciting field I know of, especially for proa
 🌎  💫
 
 
-Thanks! 😄 
+Thanks! 
 Jamie
+😄 
 
 
