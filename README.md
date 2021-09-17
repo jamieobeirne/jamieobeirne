@@ -2,11 +2,15 @@
 
 Hi, I’m Jamie O'Beirne.
 
-Please view my personal webpage: https://jamieobeirne.github.io/Developer/
+I’m a looking for a team where we can win champions and move mountains on a daily basis. 
 
-Tech work is the most creative and exciting field I know of, especially for proactive team-players that feel passionate about web development like me. I am excited by innovation and daily achievements that carry my team forward. I have a good eye for design, love to support the people around me and thrive on problem solving.
+I have 3+ years’ experience as a front end developer and 1+ year of Angular development with single page apps.
+
+Programming is modern carpentry and celebration should start Monday morning by achieving our goals together. My biggest skills are persistence, problem solving and passion.
 🌎  💫
 
+
+Please view my portfolio projects : https://jamieobeirne.github.io/Developer
 
 Thanks! 
 Jamie
