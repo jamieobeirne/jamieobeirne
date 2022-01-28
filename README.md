@@ -6,7 +6,7 @@ Hi! I’m Jamie.
 I am looking for a JUNIOR FRONT-END position where my team can win champions and move mountains on a daily basis. 
 My biggest skills are persistence, problem solving and passion.
 
-For an example of "pixel perfect" development skills, please view my Wikipedia clone:
+For an example of my "pixel perfect" development skills, please view my Wikipedia clone:
 https://jamieobeirne.github.io/Wiki-Stunt-Double/
 
 Also, here is my portfolio project page: 
