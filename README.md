@@ -3,8 +3,12 @@
 Hi! I’m Jamie.
 👋  👋  👋   
 
-I am looking for a JUNIOR FRONT-END position where my team can win champions and move mountains on a daily basis. 
-My biggest skills are persistence, problem solving and passion.
+I am looking for a JUNIOR FRONT-END position where my team can win champions and move mountains on a daily basis. My biggest skills are persistence, problem solving and passion.
+
+I am completing a master’s in Web Development (spring 2022) at the Open University of Catalonia. This has given me a rock-solid foundation in all aspects of Front-End Development, from unit test to Agile development to UI/UX concepts like “don’t make me think” to refactoring code. I have a deep level of experience with Angular, along with Typescript.
+
+Along with that, I have 3 years of experience curating online learning materials for English-language learning using the WordPress control panel.
+![image](https://user-images.githubusercontent.com/51028135/153404539-91bc9b4e-8695-4ce6-ad6e-ec6d7e3316ed.png)
 
 For an example of my "pixel perfect" development skills, please view my Wikipedia clone:
 https://jamieobeirne.github.io/Wiki-Stunt-Double/
