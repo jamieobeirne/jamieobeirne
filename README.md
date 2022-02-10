@@ -16,7 +16,7 @@ Also, here is my portfolio project page:
 https://jamieobeirne.github.io/Developer
 
 Finally, this is my is my online CV / resume: 
-https://app.netlify.com/sites/jamie-obeirne-resume-cv-10-2021/overview
+https://jamie-obeirne-resume-cv-10-2021.netlify.app/
 
 I am a dual Irish and U.S. citizen who is legal to work in Europe and America. 
 🌎  💫
