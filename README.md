@@ -14,11 +14,8 @@ https://jamieobeirne.github.io/Wiki-Stunt-Double/
 
 Please visit my portfolio page: 
 https://jamieobeirne.github.io/Developer
-![image](https://user-images.githubusercontent.com/51028135/166657374-d952eb0d-a2a3-41c5-a8fe-7b7c935eb9b4.png)
 
-🌎  💫
-
-Thanks! 
+Thanks! 🌎  💫
 J
 
 
