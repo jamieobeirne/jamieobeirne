@@ -3,26 +3,22 @@
 Hi! I’m Jamie.
 👋  👋  👋   
 
-I am looking for a JUNIOR FRONT-END position where my team can win champions and move mountains on a daily basis. My biggest skills are persistence, problem solving and passion.
+I am currently working as a Junior Front End Developer building and launching a voice-recognition educational tool, “Simon Says”, made with “technical curiosity” and Angular. 
 
-I am completing a master’s in Web Development (spring 2022) at the Open University of Catalonia. This has given me a rock-solid foundation in all aspects of Front-End Development, from unit testing to Agile development to UI/UX concepts like “don’t make me think” to refactoring code. I have a deep level of experience with Angular, along with Typescript.
+Along with that, I am completing my training as a Front-End developer (M.A. in Web Development, June 2022, U.O.C.) and I’m achieving my own personal “digital transformation”.  This has given me a rock-solid foundation in all aspects of Front-End Development, from unit testing to Agile development to UI/UX concepts like “don’t make me think” to refactoring code. I have experience with configuring AWS servers.
 
-Along with that, I have 3 years of experience curating online learning materials for English-language learning using the WordPress control panel.
+My greatest skills are troubleshooting, persistence and a passion for professional development. I am looking for a team where we can achieve big goals! 
 
-For an example of my "pixel perfect" development skills, please view my Wikipedia clone:
+For an example of my "pixel perfect" development skills relating to ECMAScript, CSS and HTML, please view my Wikipedia clone:
 https://jamieobeirne.github.io/Wiki-Stunt-Double/
 
-Also, here is my portfolio project page: 
+Please visit my portfolio page: 
 https://jamieobeirne.github.io/Developer
+![image](https://user-images.githubusercontent.com/51028135/166657374-d952eb0d-a2a3-41c5-a8fe-7b7c935eb9b4.png)
 
-Finally, this is my is my online CV / resume: 
-https://resume-feb-2022.netlify.app/
-
-I am a dual Irish and U.S. citizen who is legal to work in Europe and America. 
 🌎  💫
 
 Thanks! 
 J
-😄 
 
 
