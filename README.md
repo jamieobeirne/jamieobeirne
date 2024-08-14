@@ -3,10 +3,10 @@
 Hi! I’m Jamie.
 👋  👋  👋  
 
-I am a proactive Junior Front-End Developer with almost 8 months experience with React, JavaScript ES6, HTML, CSS / Tailwind / Sass, Typescript, Git using the Azure Repo, and CI/CI deployment to Azure pipelines.
+Certified Scrum Master who is a self-motivated team coach who thrives at completing projects on time and on budget. Experienced with all aspects of Scrum from backlog planning of Sprint stories to running daily meetings that increase effectiveness to hosting seamless reviews that highlight the value of the team’s work.
 
-Along with having a Computer Science degree (M.A. in Web Development, U.O.C. Barcelona, June 2022), my strongest skills are passion for technology, persistence with problem solving and support for my team in achieving our objectives. 
-
+Seeking a Scrum Master role that utilizes my skills and experience in an Agile environment working with a team on product development and customized software.
+ 
 Please see my Wikipedia clone:
 https://jamieobeirne.github.io/Wiki-Stunt-Double/.
 
